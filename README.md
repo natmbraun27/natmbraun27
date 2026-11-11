@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Natalie
+
+I'm a computer science major at UIC who is excited about learning and looking to contribute my skills at an internship this summer. I am passionate about all things computer science, but I especially enjoy working in C++, Python, and Java. I have been interested in programming for most of my life, and I'm grateful I now get to explore and expand that interest at UIC. In my free time I like to read comic books, build Lego, and bake all kinds of sweet treats. I'm always looking for new opportunities to learn something new about programming, and am excited to see where this journey takes me next!
 
 <!--
 **natmbraun27/natmbraun27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
